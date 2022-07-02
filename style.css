@@ -1,0 +1,19 @@
+body{
+  background-color: #9aaacb;
+  color: blanchedalmond;
+}
+img{
+  height: 200px;
+  width: 300px;
+}
+
+.titulo h1{
+   margin: 0;
+  color: black
+
+  
+}
+.titulo{
+   color: beige
+
+}
